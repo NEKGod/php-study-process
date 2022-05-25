@@ -1,0 +1,4 @@
+/tmp/study-socket/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/tmp/study-socket/cmake-build-debug/CMakeFiles/edit_cache.dir
+/tmp/study-socket/cmake-build-debug/CMakeFiles/study_socket.dir
+/tmp/study-socket/cmake-build-debug/CMakeFiles/pool_process_socket_http.dir

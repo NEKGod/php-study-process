@@ -1,0 +1,1 @@
+/usr/bin/cc -g -rdynamic CMakeFiles/pool_process_socket_http.dir/pool_process_socket_http/main.c.o -o pool_process_socket_http 

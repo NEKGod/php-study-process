@@ -1,0 +1,1 @@
+/usr/bin/cc -g -rdynamic CMakeFiles/study_socket.dir/fork_process_socket/main.c.o -o study_socket 
